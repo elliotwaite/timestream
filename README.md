@@ -5,6 +5,16 @@
     </picture>
 </div>
 
+### About
+
+Welcome to Timestream's GitHub repo. This repo is currently only used for
+tracking [issues](https://github.com/elliotwaite/timestream/issues) and holding
+[discussions](https://github.com/elliotwaite/timestream/discussions).
+Timestream isn't an open source project, so this repo doesn't host the app's
+source code, but in the future this repo may also be used to allow users to
+contribute code for certain parts of the app, for example, to allow users to
+contribute custom timer themes or other extension-like features.
+
 ### The App
 
 * Web: https://timestream.xyz
